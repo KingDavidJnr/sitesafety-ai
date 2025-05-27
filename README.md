@@ -33,7 +33,7 @@ The model considers various factors including:
 ### Installation
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/sitesafety-ai.git
+git clone https://github.com/KingDavidJnr/sitesafety-ai
 cd sitesafety-ai
 ```
 
